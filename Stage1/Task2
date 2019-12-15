@@ -1,0 +1,2 @@
+For this task I used Convolve Matrix (3x3) . As I've applied on the standard photo, median filter and after that Gaussian Blur,
+I've computed the matrix for it. Only the number in the center is changed to -1. 
